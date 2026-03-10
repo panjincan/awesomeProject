@@ -1,0 +1,4 @@
+time="2026-01-07T16:41:25+08:00" level=info client_ip="::1" latency_time=0s req_method=GET req_uri=/sn status_code=200
+time="2026-01-07T16:41:33+08:00" level=info client_ip="::1" latency_time="882µs" req_method=GET req_uri="/v2/product/add?name=a&price=10&ts=1767772094&sn=afba3aae04bd9a0780dae99a21fdd3df" status_code=200
+time="2026-01-07T17:02:09+08:00" level=debug client_ip="::1" latency_time=0s req_method=GET req_uri=/sn status_code=200
+time="2026-01-07T17:02:11+08:00" level=debug client_ip="::1" latency_time=0s req_method=GET req_uri="/v2/product/add?name=a&price=10&ts=1767772094&sn=afba3aae04bd9a0780dae99a21fdd3df" status_code=200
